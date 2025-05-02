@@ -6,7 +6,7 @@ package iniciante_beginner.BEE1004;
  * @subject: Sequential
  * 
  * @author: Letícia Cruz
- * @date: 2025-04-18
+ * @date: 2025-05-02
  */
 
 import java.io.IOException; // uso padrão do beecrowd para java

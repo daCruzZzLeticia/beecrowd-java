@@ -1,3 +1,4 @@
+package iniciante_beginner.BEE1010;
 
 /**
  * Source: Beecrowd
@@ -33,5 +34,4 @@ public class Main {
 
         sc.close();
     }
-
 }

@@ -1,3 +1,4 @@
+package iniciante_beginner.BEE1000;
 
 /**
  * Source: Beecrowd

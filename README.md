@@ -9,6 +9,9 @@ Este repositório contém minhas soluções para os problemas do Beecrowd (antig
 -   [1000 - Hello World!](src/iniciante_beginner/BEE1000/Main.java)
 -   [1001 - Extremely Basic](src/iniciante_beginner/BEE1001/Main.java)
 -   [1002 - Area of a Circle](src/iniciante_beginner/BEE1002/Main.java)
+-   [1003 - Simple Sum](src/iniciante_beginner/BEE1003/Main.java)
+-   [1004 - Simple Product](src/iniciante_beginner/BEE1004/Main.java)
+-   [1005 - Average 1](src/iniciante_beginner/BEE1005/Main.java)
 -   [1010 - Simple Calculate](src/iniciante_beginner/BEE1010/Main.java)
 
 ## Estrutura/Structure
