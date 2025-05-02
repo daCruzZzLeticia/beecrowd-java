@@ -6,7 +6,6 @@
  * 
  * @author: Letícia Cruz
  * @date: 2025-04-18
- * 
  */
 
 import java.io.IOException; // uso padrão do beecrowd para java
