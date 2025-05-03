@@ -13,6 +13,8 @@ Este repositório contém minhas soluções para os problemas do Beecrowd (antig
 -   [1004 - Simple Product](src/iniciante_beginner/BEE1004/Main.java)
 -   [1005 - Average 1](src/iniciante_beginner/BEE1005/Main.java)
 -   [1010 - Simple Calculate](src/iniciante_beginner/BEE1010/Main.java)
+-   [1013 - The Greatest](src/iniciante_beginner/BEE1013/Main.java)
+-   [1048 - Counting Crow](src/iniciante_beginner/BEE1848/Main.java)
 
 ## Estrutura/Structure
 
