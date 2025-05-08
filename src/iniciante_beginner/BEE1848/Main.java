@@ -3,7 +3,7 @@ package iniciante_beginner.BEE1848;
 /**
  * Source: Beecrowd
  * @problem: 1048 - Counting Crow
- * @subject: Sequential
+ * @subject: Numeral Systems
  * 
  * @author: Letícia Cruz
  * @date: 2025-04-21
