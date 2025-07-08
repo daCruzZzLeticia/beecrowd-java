@@ -20,11 +20,12 @@ Este repositório contém minhas soluções para os problemas do Beecrowd (antig
 -   [1013 - The Greatest](src/iniciante_beginner/BEE1013/Main.java)
 -   [1016 - Distance](src/iniciante_beginner/BEE1016/Main.java)
 -   [1021 - Banknotes and Coins](src/iniciante_beginner/BEE1021/Main.java)
--   [1094 - Selection Test 1](src/iniciante_beginner/BEE1035/Main.java)
+-   [1035 - Selection Test 1](src/iniciante_beginner/BEE1035/Main.java)
 -   [1049 - Animal](src/iniciante_beginner/BEE1049/Main.java)
 -   [1094 - Experiments](src/iniciante_beginner/BEE1094/Main.java)
 -   [1114 - Fixed Password](src/iniciante_beginner/BEE1114/Main.java)
 -   [1048 - Counting Crow](src/iniciante_beginner/BEE1848/Main.java)
+-   [2582 - System of a Download](src/iniciante_beginner/BEE2582/Main.java)
 
 ## Estrutura/Structure
 
