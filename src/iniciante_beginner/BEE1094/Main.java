@@ -1,5 +1,14 @@
 package iniciante_beginner.BEE1094;
 
+/**
+ * Source: Beecrowd
+ * @problem: 1094 - Experiments
+ * @subject: Repetition
+ * 
+ * @author: Letícia Cruz
+ * @date: 2025-07-07
+ */
+
 import java.io.IOException;
 import java.util.Scanner;
 
