@@ -23,6 +23,7 @@ Este repositório contém minhas soluções para os problemas do Beecrowd (antig
 -   [1035 - Selection Test 1](src/iniciante_beginner/BEE1035/Main.java)
 -   [1037 - Interval](src/iniciante_beginner/BEE1037/Main.java)
 -   [1049 - Animal](src/iniciante_beginner/BEE1049/Main.java)
+-   [1061 - Event Time](src/iniciante_beginner/BEE1061/Main.java)
 -   [1094 - Experiments](src/iniciante_beginner/BEE1094/Main.java)
 -   [1114 - Fixed Password](src/iniciante_beginner/BEE1114/Main.java)
 -   [1848 - Counting Crow](src/iniciante_beginner/BEE1848/Main.java)
