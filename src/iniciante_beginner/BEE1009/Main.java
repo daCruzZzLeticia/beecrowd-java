@@ -1,5 +1,3 @@
-package iniciante_beginner.BEE1009;
-
 /**
  * Source: Beecrowd
  * @problem: 1009 - Salary with Bonus
@@ -8,6 +6,8 @@ package iniciante_beginner.BEE1009;
  * @author: Letícia Cruz
  * @date: 2025-04-18
  */
+
+package iniciante_beginner.BEE1009;
 
 import java.io.IOException;
 import java.util.Scanner;

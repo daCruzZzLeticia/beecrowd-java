@@ -1,5 +1,3 @@
-package iniciante_beginner.BEE1848;
-
 /**
  * Source: Beecrowd
  * @problem: 1048 - Counting Crow
@@ -8,6 +6,8 @@ package iniciante_beginner.BEE1848;
  * @author: Letícia Cruz
  * @date: 2025-04-21
  */
+
+package iniciante_beginner.BEE1848;
 
 import java.io.IOException;
 import java.util.Scanner;

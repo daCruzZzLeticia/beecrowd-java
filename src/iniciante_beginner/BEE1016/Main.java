@@ -1,5 +1,3 @@
-package iniciante_beginner.BEE1016;
-
 /**
  * Source: Beecrowd
  * @problem: 1016 - Distance
@@ -8,6 +6,8 @@ package iniciante_beginner.BEE1016;
  * @author: Letícia Cruz
  * @date: 2025-07-06
  */
+
+package iniciante_beginner.BEE1016;
 
 import java.io.IOException;
 import java.util.Scanner;

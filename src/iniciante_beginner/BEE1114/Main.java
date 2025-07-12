@@ -1,5 +1,3 @@
-package iniciante_beginner.BEE1114;
-
 /**
  * Source: Beecrowd
  * @problem: 1114 - Fixed Password
@@ -7,7 +5,9 @@ package iniciante_beginner.BEE1114;
  * 
  * @author: Letícia Cruz
  * @date: 2025-05-07
- */
+ **/
+
+package iniciante_beginner.BEE1114;
 
 import java.io.IOException;
 import java.util.Scanner;

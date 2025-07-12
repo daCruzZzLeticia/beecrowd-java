@@ -1,5 +1,3 @@
-package iniciante_beginner.BEE1049;
-
 /**
  * Source: Beecrowd
  * @problem: 1049 - Animal
@@ -8,6 +6,8 @@ package iniciante_beginner.BEE1049;
  * @author: Letícia Cruz
  * @date: 2025-05-11
  */
+
+package iniciante_beginner.BEE1049;
 
 import java.io.IOException;
 import java.util.Scanner;

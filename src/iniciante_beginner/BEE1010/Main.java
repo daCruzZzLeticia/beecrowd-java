@@ -1,5 +1,3 @@
-package iniciante_beginner.BEE1010;
-
 /**
  * Source: Beecrowd
  * @problem: 1010 - Simple Calculate
@@ -8,6 +6,8 @@ package iniciante_beginner.BEE1010;
  * @author: Letícia Cruz
  * @date: 2025-04-18
  */
+
+package iniciante_beginner.BEE1010;
 
 import java.io.IOException; // uso padrão do beecrowd para java
 import java.util.Scanner;

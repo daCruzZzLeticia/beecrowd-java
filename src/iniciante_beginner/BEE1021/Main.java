@@ -1,5 +1,3 @@
-package iniciante_beginner.BEE1021;
-
 /**
  * Source: Beecrowd
  * @problem: 1021 - Banknotes and Coins
@@ -8,6 +6,8 @@ package iniciante_beginner.BEE1021;
  * @author: Letícia Cruz
  * @date: 2025-04-21
  */
+
+package iniciante_beginner.BEE1021;
 
 import java.io.IOException;
 import java.util.Scanner;

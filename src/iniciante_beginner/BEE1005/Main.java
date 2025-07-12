@@ -1,5 +1,3 @@
-package iniciante_beginner.BEE1005;
-
 /**
  * Source: Beecrowd
  * @problem: 1005 - Average 1
@@ -8,6 +6,8 @@ package iniciante_beginner.BEE1005;
  * @author: Letícia Cruz
  * @date: 2025-05-02
  */
+
+package iniciante_beginner.BEE1005;
 
 import java.io.IOException; // uso padrão do beecrowd para java
 import java.util.Scanner;

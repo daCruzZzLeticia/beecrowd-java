@@ -1,5 +1,3 @@
-package iniciante_beginner.BEE1035;
-
 /**
  * Source: Beecrowd
  * @problem: Selection Test 1
@@ -8,6 +6,8 @@ package iniciante_beginner.BEE1035;
  * @author: Letícia Cruz
  * @date: 2025-07-06
  */
+
+package iniciante_beginner.BEE1035;
 
 import java.io.IOException;
 import java.util.Scanner;

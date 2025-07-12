@@ -1,5 +1,3 @@
-package iniciante_beginner.BEE1008;
-
 /**
  * Source: Beecrowd
  * @problem: 1008 - Salary
@@ -8,6 +6,8 @@ package iniciante_beginner.BEE1008;
  * @author: Letícia Cruz
  * @date: 2025-07-05
  */
+
+package iniciante_beginner.BEE1008;
 
 import java.io.IOException;
 import java.util.Scanner;

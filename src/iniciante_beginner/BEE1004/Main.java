@@ -1,5 +1,3 @@
-package iniciante_beginner.BEE1004;
-
 /**
  * Source: Beecrowd
  * @problem: 1004 - Simple Product
@@ -8,6 +6,8 @@ package iniciante_beginner.BEE1004;
  * @author: Letícia Cruz
  * @date: 2025-05-02
  */
+
+package iniciante_beginner.BEE1004;
 
 import java.io.IOException; // uso padrão do beecrowd para java
 import java.util.Scanner;

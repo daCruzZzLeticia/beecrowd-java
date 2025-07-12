@@ -1,5 +1,3 @@
-package iniciante_beginner.BEE1000;
-
 /**
  * Source: Beecrowd
  * @problem: 1000 - Hello World!
@@ -8,6 +6,8 @@ package iniciante_beginner.BEE1000;
  * @author: Letícia Cruz
  * @date: 2025-04-18
  */
+
+package iniciante_beginner.BEE1000;
 
 import java.io.IOException; // uso padrão no beecrowd para java
 

@@ -1,5 +1,3 @@
-package iniciante_beginner.BEE1002;
-
 /**
  * Source: Beecrowd
  * @problem: 1002 - Area of a Circle
@@ -8,6 +6,8 @@ package iniciante_beginner.BEE1002;
  * @author: Letícia Cruz
  * @date: 2025-05-01
  */
+
+package iniciante_beginner.BEE1002;
 
 import java.io.IOException;
 import java.util.Scanner;

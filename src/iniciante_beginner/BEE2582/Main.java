@@ -1,14 +1,13 @@
-package iniciante_beginner.BEE2582;
-
 /**
  * Source: Beecrowd
- * 
  * @problem: 2582 - System of a Download
  * @subject: Array
  * 
  * @author: Letícia Cruz
  * @date: 2025-07-08
  */
+
+package iniciante_beginner.BEE2582;
 
 import java.io.IOException;
 import java.util.Scanner;

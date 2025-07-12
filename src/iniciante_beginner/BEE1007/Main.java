@@ -1,3 +1,12 @@
+/**
+ * Source: Beecrowd
+ * @problem: 1007 - Difference
+ * @subject: Sequential
+ * 
+ * @author: Letícia Cruz
+ * @date: 2025-07-02
+ */
+
 package iniciante_beginner.BEE1007;
 
 import java.io.IOException;

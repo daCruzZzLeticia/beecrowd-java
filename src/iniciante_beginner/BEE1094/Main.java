@@ -1,5 +1,3 @@
-package iniciante_beginner.BEE1094;
-
 /**
  * Source: Beecrowd
  * @problem: 1094 - Experiments
@@ -8,6 +6,8 @@ package iniciante_beginner.BEE1094;
  * @author: Letícia Cruz
  * @date: 2025-07-07
  */
+
+package iniciante_beginner.BEE1094;
 
 import java.io.IOException;
 import java.util.Scanner;

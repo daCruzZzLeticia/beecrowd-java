@@ -1,5 +1,3 @@
-package iniciante_beginner.BEE1013;
-
 /**
  * Source: Beecrowd
  * @problem: 1013 - The Greatest
@@ -8,6 +6,8 @@ package iniciante_beginner.BEE1013;
  * @author: Letícia Cruz
  * @date: 2025-04-18
  */
+
+package iniciante_beginner.BEE1013;
 
 import java.io.IOException;
 import java.util.Scanner;
